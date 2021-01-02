@@ -1,5 +1,5 @@
 import React from "react";
-
+// Components
 import AboutSection from "../components/AboutSection";
 import ServicesSection from "../components/ServicesSection";
 import FaqSection from "../components/FaqSection";

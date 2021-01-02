@@ -1,10 +1,10 @@
 import React from "react";
-
+// Icons images
 import clock from "../img/clock.svg";
 import teamwork from "../img/teamwork.svg";
 import diaphragm from "../img/diaphragm.svg";
 import money from "../img/money.svg";
-
+// Image
 import home2 from "../img/home2.png";
 
 const ServicesSection = () => {
