@@ -39,7 +39,7 @@ const GlobalStyle = createGlobalStyle`
 
   h4 {
     font-weight: 600;
-    color: #23d997;
+    font-size: 2rem;
   }
 
   a {
