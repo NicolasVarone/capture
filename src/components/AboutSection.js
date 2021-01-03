@@ -1,8 +1,6 @@
 import React from "react";
 // Image
 import home1 from "../img/home1.png";
-// Style package
-import styled from "styled-components";
 // Style
 import { About, Description, Image, Hide } from "../styles";
 
